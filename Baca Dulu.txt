@@ -15,14 +15,5 @@ file hasil extract tadi ke folder htdocs -> C:/xampp/htdocs
 
 6. Selamat anda telah berhasil menginstall PerPusWeb
 
-Bila masih bingung atau tidak bisa mengistall silahkan hubungi saya di
-
-BBM : 52391DCE
-SMS/TLP/WA : 085694984803
-Email : hakkobiorichard@gmail.com
-Blog : www.hakkoblogs.com
-
-Harap meyertakan info, misal : PerPusWeb Pro tidak bisa install.
-
 Selamat berkreasi, Happy Coding & Programming.
 
