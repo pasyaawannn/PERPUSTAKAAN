@@ -1,1 +1,2 @@
-# Ini adalah website perpustakaan sederhana menggunakan basis data
+# Perpustakan
+Ini adalah code website perpustakaan menggunakan mysql xampp
